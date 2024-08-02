@@ -1,0 +1,766 @@
+:root {
+    --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+      "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+      "Source Han Sans CN", sans-serif;
+  }
+  
+  .main-container {
+    overflow: hidden;
+  }
+  
+  .main-container,
+  .main-container * {
+    box-sizing: border-box;
+  }
+  
+  input,
+  select,
+  textarea,
+  button {
+    outline: 0;
+  }
+  
+  .main-container {
+    position: relative;
+    width: 1920px;
+    height: auto;
+    margin: 0 auto;
+    background: #ffffff;
+    overflow: hidden;
+  }
+  .flex-row-fda {
+    position: relative;
+    width: 2009.279px;
+    height: 1121.303px;
+    margin: 78px 0 0 -70.356px;
+    z-index: 51;
+  }
+  .ellipse {
+    position: absolute;
+    width: 70.202px;
+    height: 70.202px;
+    top: 0;
+    left: 1844.181px;
+    background-color:#d85454ce;
+    background-size: cover;
+    z-index: 46;
+    border-radius: 50%;
+  }
+  .ellipse-1 {
+    position: absolute;
+    width: 62.789px;
+    height: 62.789px;
+    top: 29px;
+    left: 590.568px;
+    background-color: #d85454d7;
+    background-size: cover;
+    z-index: 47;
+    border-radius: 50%;
+  }
+  .ellipse-2 {
+    position: absolute;
+    width: 163.489px;
+    height: 163.489px;
+    top: 39px;
+    left: 316.585px;
+    background-color:#d85b5436;
+    background-size: cover;
+    z-index: 8;
+    border-radius: 50%;
+  }
+  .optimo {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    height: 80px;
+    top: 46px;
+    left: 929.356px;
+    color: #d85b54;
+    font-family: Hammersmith One, var(--default-font-family);
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80px;
+    text-align: left;
+    white-space: nowrap;
+  }
+  .ellipse-3 {
+    position: absolute;
+    width: 139.567px;
+    height: 139.567px;
+    top: 58.816px;
+    left: 1295.609px;
+    background-color:#d85b54cb;
+    background-size: cover;
+    z-index: 37;
+    border-radius: 50%;
+  }
+  .ellipse-4 {
+    position: absolute;
+    width: 96.693px;
+    height: 96.693px;
+    top: 61.088px;
+    left: 1708.757px;
+    background-color:#d85b54;
+    background-size: cover;
+    z-index: 33;
+    border-radius: 50%;
+  }
+  .ellipse-5 {
+    position: absolute;
+    width: 182.79px;
+    height: 182.79px;
+    top: 79.701px;
+    left: 1826.489px;
+    background:#d85b5494;
+    background-size: cover;
+    z-index: 11;
+    border-radius: 50%;
+  }
+  .ellipse-6 {
+    position: absolute;
+    width: 62.789px;
+    height: 62.789px;
+    top: 97.381px;
+    left: 225.796px;
+    background:#d85b54c2;
+    background-size: cover;
+    z-index: 44;
+    border-radius: 50%;
+  }
+  .compresor-de-imagenes {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    height: 45px;
+    top: 126px;
+    left: 834.356px;
+    color: #000000;
+    font-family: Hammersmith One, var(--default-font-family);
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: left;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .ellipse-7 {
+    position: absolute;
+    width: 91.222px;
+    height: 91.222px;
+    top: 134.338px;
+    left: 489.128px;
+    background:#d85b54d8;
+    background-size: cover;
+    z-index: 18;
+    border-radius: 50%;
+  }
+  .ellipse-8 {
+    position: absolute;
+    width: 86.484px;
+    height: 86.484px;
+    top: 152.596px;
+    left: 624.635px;
+    background:#d85b5493;
+    background-size: cover;
+    z-index: 34;
+    border-radius: 50%;
+  }
+  .ellipse-9 {
+    position: absolute;
+    width: 70.202px;
+    height: 70.202px;
+    top: 152.626px;
+    left: 1646.067px;
+    background:#d85b54a8;
+    background-size: cover;
+    z-index: 43;
+    border-radius: 50%;
+  }
+  .ellipse-a {
+    position: absolute;
+    width: 60.62px;
+    height: 60.62px;
+    top: 197.474px;
+    left: 1443.694px;
+    background:#d85b548e;
+    background-size: cover;
+    z-index: 21;
+    border-radius: 50%;
+  }
+  .ellipse-b {
+    position: absolute;
+    width: 91.222px;
+    height: 91.222px;
+    top: 202.719px;
+    left: 124.356px;
+    background:#d85b54fb;
+    background-size: cover;
+    z-index: 16;
+    border-radius: 50%;
+  }
+  .ellipse-c {
+    position: absolute;
+    width: 86.484px;
+    height: 86.484px;
+    top: 220.977px;
+    left: 259.863px;
+    background:#d85b54d2;
+    background-size: cover;
+    z-index: 30;
+    border-radius: 50%;
+  }
+  .ellipse-d {
+    position: absolute;
+    width: 194.548px;
+    height: 194.548px;
+    top: 226.393px;
+    left: 1482.242px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 3;
+    border-radius: 50%;
+  }
+  .ellipse-e {
+    position: absolute;
+    width: 102.913px;
+    height: 102.913px;
+    top: 235.084px;
+    left: 1308.05px;
+    background:#d85b54b4;
+    background-size: cover;
+    z-index: 27;
+    border-radius: 50%;
+  }
+  .ellipse-f {
+    position: absolute;
+    width: 163.489px;
+    height: 163.489px;
+    top: 265.619px;
+    left: 422.356px;
+    background:#d85b549f;
+    background-size: cover;
+    z-index: 6;
+    border-radius: 50%;
+  }
+  .ellipse-10 {
+    position: absolute;
+    width: 50.942px;
+    height: 50.942px;
+    top: 296.913px;
+    left: 618.996px;
+    background:#d85b54ea;
+    background-size: cover;
+    z-index: 24;
+    border-radius: 50%;
+  }
+  .ellipse-11 {
+    position: absolute;
+    width: 62.789px;
+    height: 62.789px;
+    top: 324px;
+    left: 331.568px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 40;
+    border-radius: 50%;
+  }
+  .ellipse-12 {
+    position: absolute;
+    width: 108.552px;
+    height: 108.552px;
+    top: 347.387px;
+    left: 1373.968px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 13;
+    border-radius: 50%;
+  }
+  .ellipse-13 {
+    position: absolute;
+    width: 406px;
+    height: 406px;
+    top: 351px;
+    left: 827.356px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 49;
+    border-radius: 50%;
+  }
+  .ellipse-14 {
+    position: absolute;
+    width: 168.123px;
+    height: 168.123px;
+    top: 406.608px;
+    left: 1692.732px;
+    background:#d85b54a8;
+    background-size: cover;
+    z-index: 5;
+    border-radius: 50%;
+  }
+  .upload {
+    position: absolute;
+    width: 278px;
+    height: 278px;
+    top: 415px;
+    left: 891.356px;
+    background:#d85b54;
+    background-size: contain;
+    z-index: 51;
+    
+  }
+  .ellipse-one {
+    position: absolute;
+    width: 91.222px;
+    height: 91.222px;
+    top: 429.338px;
+    left: 230.128px;
+    background:#d85b54a8;
+    background-size: cover;
+    z-index: 14;
+    border-radius: 50%;
+  }
+  .ellipse-two {
+    position: absolute;
+    width: 86.484px;
+    height: 86.484px;
+    top: 447.596px;
+    left: 365.635px;
+    background:#d85b54fa;
+    background-size: cover;
+    z-index: 28;
+    border-radius: 50%;
+  }
+  .ellipse-three {
+    position: absolute;
+    width: 120.61px;
+    height: 120.61px;
+    top: 493.555px;
+    left: 1433.81px;
+    background:#d85b5485;
+    background-size: cover;
+    z-index: 39;
+    border-radius: 50%;
+  }
+  .ellipse-four {
+    position: absolute;
+    width: 52.386px;
+    height: 52.386px;
+    top: 495.751px;
+    left: 1611.502px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 23;
+    border-radius: 50%;
+  }
+  .ellipse-five {
+    position: absolute;
+    width: 117.286px;
+    height: 117.286px;
+    top: 533.323px;
+    left: 471.696px;
+    background:#d85b547a;
+    background-size: cover;
+    z-index: 38;
+    border-radius: 50%;
+  }
+  .ellipse-six {
+    position: absolute;
+    width: 163.489px;
+    height: 163.489px;
+    top: 560.619px;
+    left: 163.356px;
+    background:#d85b54e1;
+    background-size: cover;
+    z-index: 4;
+    border-radius: 50%;
+  }
+  .ellipse-seven {
+    position: absolute;
+    width: 50.942px;
+    height: 50.942px;
+    top: 591.913px;
+    left: 359.996px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 22;
+    border-radius: 50%;
+  }
+  .ellipse-eight {
+    position: absolute;
+    width: 88.935px;
+    height: 88.935px;
+    top: 604.949px;
+    left: 1575.54px;
+    background:#d85b54cc;
+    background-size: cover;
+    z-index: 29;
+    border-radius: 50%;
+  }
+  .ellipse-nine {
+    position: absolute;
+    width: 93.808px;
+    height: 93.808px;
+    top: 612.39px;
+    left: 1706.821px;
+    background:#d85b54f3;
+    background-size: cover;
+    z-index: 15;
+    border-radius: 50%;
+  }
+  .ellipse-ten {
+    position: absolute;
+    width: 108.83px;
+    height: 108.83px;
+    top: 692.56px;
+    left: 534.874px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 12;
+    border-radius: 50%;
+  }
+  .ellipse-eleven {
+    position: absolute;
+    width: 168.123px;
+    height: 168.123px;
+    top: 712.971px;
+    left: 1447.279px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 7;
+    border-radius: 50%;
+  }
+  .ellipse-twelve {
+    position: absolute;
+    width: 195.047px;
+    height: 195.047px;
+    top: 720.557px;
+    left: 337.135px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 2;
+    border-radius: 50%;
+  }
+  .ellipse-thirteen {
+    position: absolute;
+    width: 64.569px;
+    height: 64.569px;
+    top: 750.37px;
+    left: 1639.69px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 41;
+    border-radius: 50%;
+  }
+  .suelta-aqui {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    height: 50px;
+    top: 789px;
+    left: 910.356px;
+    color: #000000;
+    font-family: Hammersmith One, var(--default-font-family);
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: left;
+    white-space: nowrap;
+    z-index: 50;
+  }
+  .ellipse-15 {
+    position: absolute;
+    width: 52.386px;
+    height: 52.386px;
+    top: 802.115px;
+    left: 1366.049px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 25;
+    border-radius: 50%;
+  }
+  .ellipse-16 {
+    position: absolute;
+    width: 103.177px;
+    height: 103.177px;
+    top: 813.488px;
+    left: 601.184px;
+    background:#d85b54;;
+    background-size: cover;
+    z-index: 26;
+    border-radius: 50%;
+  }
+  .ellipse-17 {
+    position: absolute;
+    width: 88.935px;
+    height: 88.935px;
+    top: 826.575px;
+    left: 1691.409px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 31;
+    border-radius: 50%;
+  }
+  .ellipse-18 {
+    position: absolute;
+    width: 93.808px;
+    height: 93.808px;
+    top: 834.016px;
+    left: 1822.691px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 17;
+    border-radius: 50%;
+  }
+  .ellipse-19 {
+    position: absolute;
+    width: 179.525px;
+    height: 179.525px;
+    top: 865.497px;
+    left: 0;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 10;
+    border-radius: 50%;
+  }
+  .ellipse-1a {
+    position: absolute;
+    width: 60.775px;
+    height: 60.775px;
+    top: 888.23px;
+    left: 505.358px;
+    background:#d85b54f3;
+    background-size: cover;
+    z-index: 20;
+    border-radius: 50%;
+  }
+  .ellipse-1b {
+    position: absolute;
+    width: 88.935px;
+    height: 88.935px;
+    top: 911.313px;
+    left: 1330.087px;
+    background:#d85b54a9;
+    background-size: cover;
+    z-index: 35;
+    border-radius: 50%;
+  }
+  .ellipse-1c {
+    position: absolute;
+    width: 68.948px;
+    height: 68.948px;
+    top: 914.831px;
+    left: 292.514px;
+    background:#d85b5494;
+    background-size: cover;
+    z-index: 42;
+    border-radius: 50%;
+  }
+  .ellipse-1d {
+    position: absolute;
+    width: 93.808px;
+    height: 93.808px;
+    top: 918.754px;
+    left: 1461.368px;
+    background:#d85b54c4;
+    background-size: cover;
+    z-index: 19;
+    border-radius: 50%;
+  }
+  .ellipse-1e {
+    position: absolute;
+    width: 168.123px;
+    height: 168.123px;
+    top: 934.598px;
+    left: 1563.148px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 9;
+    border-radius: 50%;
+  }
+  .ellipse-1f {
+    position: absolute;
+    width: 139.925px;
+    height: 139.925px;
+    top: 952.63px;
+    left: 569.819px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 36;
+    border-radius: 50%;
+  }
+  .ellipse-20 {
+    position: absolute;
+    width: 64.569px;
+    height: 64.569px;
+    top: 971.996px;
+    left: 1755.559px;
+    background:#d85b54bb;
+    background-size: cover;
+    z-index: 45;
+    border-radius: 50%;
+  }
+  .ellipse-21 {
+    position: absolute;
+    width: 94.966px;
+    height: 94.966px;
+    top: 976.615px;
+    left: 200.12px;
+    background:#d85b54dc;
+    background-size: cover;
+    z-index: 32;
+    border-radius: 50%;
+  }
+  .ellipse-22 {
+    position: absolute;
+    width: 64.569px;
+    height: 64.569px;
+    top: 1056.734px;
+    left: 1394.237px;
+    background:#d85b54;
+    background-size: cover;
+    z-index: 48;
+    border-radius: 50%;
+  }
+  
+  .rectangle {
+    position: relative;
+    width: 1920px;
+    height: 198px;
+    margin: 74px 0 0 0;
+    font-size: 0px;
+    background: #dcb9b9;
+    z-index: 61;
+    overflow: visible auto;
+  }
+  .thank-you {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    position: relative;
+    width: 633px;
+    height: 60px;
+    margin: 39px 0 0 644px;
+    color: #000000;
+    font-family: Hammersmith One, var(--default-font-family);
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: right;
+    white-space: nowrap;
+    z-index: 60;
+  }
+  .privacy-23 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    position: absolute;
+    width: 225px;
+    height: 60px;
+    top: 116px;
+    left: 31px;
+    color: #000000;
+    font-family: Hammersmith One, var(--default-font-family);
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: right;
+    white-space: nowrap;
+    z-index: 59;
+  }
+  .github {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    position: absolute;
+    width: 152px;
+    height: 60px;
+    top: 116px;
+    left: 1725px;
+    color: #000000;
+    font-family: Hammersmith One, var(--default-font-family);
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    text-align: right;
+    white-space: nowrap;
+    z-index: 61;
+  }
+  .upload i{
+    font-size: 275px;
+    color: #ffff;
+  }
+  .content-container {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+  }@keyframes moveUpDown {
+    0% {
+      transform:  translateY(0px);
+    }
+    25% {
+      transform:  translateY(40px);
+    }
+    50% {
+      transform:  translateY(-40px);
+    }
+    100% {
+      transform:  translateY(0px);
+    }
+  }
+  
+  /* Apply animation to ellipses */
+  .ellipse,
+  .ellipse-1,
+  .ellipse-2,
+  .ellipse-3,
+  .ellipse-4,
+  .ellipse-5,
+  .ellipse-6,
+  .ellipse-7,
+  .ellipse-8,
+  .ellipse-9,
+  .ellipse-a,
+  .ellipse-b,
+  .ellipse-c,
+  .ellipse-d,
+  .ellipse-e,
+  .ellipse-f,
+  .ellipse-10,
+  .ellipse-11,
+  .ellipse-12,
+  .ellipse-13,
+  .ellipse-14,
+  .ellipse-one,
+  .ellipse-two,
+  .ellipse-three,
+  .ellipse-four,
+  .ellipse-five,
+  .ellipse-six,
+  .ellipse-seven,
+  .ellipse-eight,
+  .ellipse-nine,
+  .ellipse-ten,
+  .ellipse-eleven,
+  .ellipse-twelve,
+  .ellipse-thirteen,
+  .ellipse-15,
+  .ellipse-16,
+  .ellipse-17,
+  .ellipse-18,
+  .ellipse-19,
+  .ellipse-1a,
+  .ellipse-1b,
+  .ellipse-1c,
+  .ellipse-1d,
+  .ellipse-1e,
+  .ellipse-1f,
+  .ellipse-20,
+  .ellipse-21,
+  .ellipse-22 {
+    animation: moveUpDown 4s infinite ease-in-out;
+  }
